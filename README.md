@@ -1,2 +1,2 @@
 # SECURED-BANKING-APPLICATION
-This is an user interface program developed in Python using Tkinter that uses SQLite3 database for storing user’s data and their transaction history.
+This is an user interface program developed in Python using Tkinter that uses SQLite3 database for storing user’s data and their transaction history.Using the application users can create an account, perform account transfers, withdraw/deposit and block/unblock their debit card. This application ensures the security of the user’s data and their transaction details by encrypting the details before storing in the database using cryptographic algorithms.
